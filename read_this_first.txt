@@ -1,0 +1,18 @@
+Dear Sir/Ma'am,
+
+I am writing to explain why I have not developed the UI for this machine task.
+
+As a Backend Developer, my expertise lies in API development. I have a strong understanding of building APIs, and I find it relatively easy due to my familiarity with the process. While I do have some knowledge of HTML and CSS, 
+I acknowledge that it's insufficient for creating a comprehensive UI. My proficiency in JavaScript is limited, and I am not particularly enthusiastic about UI development. This lack of focus on UI, along with my limited free time, has contributed to the delay.
+
+Additionally, my current circumstances are challenging, as my grandfather is hospitalized, requiring my presence and attention. 
+This has further impacted my availability and capacity to dedicate time to UI development. However, I have developed APIs based on the functionality mentioned in the task.
+
+I hope you understand my situation and the reasons behind my decision.
+
+Thank you for your consideration.
+
+Sincerely,
+Akash Suresh
+
+API documentation Link -----> https://documenter.getpostman.com/view/24033907/2s9YXb9kUg
